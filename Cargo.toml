@@ -10,7 +10,7 @@ readme = "README.md"
 [dependencies]
 carbon-raydium-clmm-decoder = "0.8.1"
 rug = "1.27.0"
-solana-account = "2.2.2"
+solana-account = "2.2.1"
 solana-client = "2.2.2"
 solana-sdk = "2.2.2"
 spl-token = "8.0.0"
